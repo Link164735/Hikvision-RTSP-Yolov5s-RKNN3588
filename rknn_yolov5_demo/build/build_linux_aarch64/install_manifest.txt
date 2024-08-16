@@ -1,0 +1,11 @@
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/./rknn_yolov5_demo
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/lib/librknnrt.so
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/lib/librga.so
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/.//model/RK3566_RK3568/yolov5s-640-640.rknn
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/.//model/RK3588/yolov5s-640-640.rknn
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/.//model/bus.jpg
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/.//model/RK3562/yolov5s-640-640.rknn
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/.//model/coco_80_labels_list.txt
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/./rknn_yolov5_video_demo
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/lib/librockchip_mpp.so
+/userdata/yolov5s_infer_rknn_rk3588/rknn_yolov5_demo/install/lib/libmk_api.so
